@@ -1,0 +1,48 @@
+
+/* styles.css */
+ /* div{ 
+  color: white;
+  background-color: red;
+  font-size: 32px;
+  text-align: center;
+}*/
+
+ .numberone{
+
+  background-color: pink;
+  font-family: Verdana, Dejavu sans-serif;
+}
+
+.numbertwo{
+  background-color: white;
+  color: blue;
+  font-size: 36px;
+}
+
+.numberthree{
+  background-color: pink;
+  font-size: 24px;
+}
+.numberfour{
+  background-color:lightgreen;
+  font-size: 24px;
+}
+
+.numberfive{
+  background-color: pink;
+}
+
+.button1 {
+  background-color: black;
+  color:white
+}
+
+.button2 {
+background-color: yellow;
+color: black;
+}
+
+.buttons {
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+}
